@@ -24,7 +24,7 @@ params:
   hidecopyright: false
   showNavTitle: false            # Boolean: show site title in nav bar
   custom_css:
-    - style.css
+    - static/style.css #changed this from style.css
 menu:
   main:
     - name: Home
